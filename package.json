@@ -1,0 +1,15 @@
+{
+  "name": "libretro-database-j2me",
+  "version": "2024.11.17",
+  "main": "index.js",
+  "scripts": {
+    "test": "node convert.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0",
+    "transliteration": "^2.3.5"
+  }
+}
